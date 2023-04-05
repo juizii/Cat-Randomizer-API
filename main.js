@@ -21,7 +21,7 @@ function getCat(){
 }
 
 //audio when button is pressed.
-const audio = new Audio ('meow.wav')
+const audio = new Audio ('img/meow.wav')
 const buttons = document.querySelectorAll("button");
 
 buttons.forEach(button => {
